@@ -1,5 +1,6 @@
 # chopshops-v2
 
-![Alt Text]([https://i.imgur.com/nMnHFId.png)
+[Video Demo](https://youtu.be/pUijS6oLI_k)
 
-![Alt Text](https://youtu.be/pUijS6oLI_k)
+
+![alt text](https://i.imgur.com/nMnHFId.png)
